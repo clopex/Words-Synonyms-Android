@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">W&amp;S</string>
+    <string name="add">Add</string>
+    <string name="word">Word</string>
+    <string name="add_synonym">Add a Synonym</string>
+    <string name="add_a_word_hint">Add a Word</string>
+    <string name="synonym">Synonym</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_word">Add Word First!</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_synonym">Edit Synonym</string>
+    <string name="warning">Warning</string>
+    <string name="delete_error">This synonym is linked to more words, do you want to delete this synonym from all words?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="word_exists">Current word already exists, please enter another word.</string>
+    <string name="add_words">Add Words!</string>
+</resources>
